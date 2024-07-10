@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Pat!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pat
 ====================
 
-I'm studying software development at Generation Thailand.
+I'm soon to graduate from Generation Thailand's Junior Software Developer Bootcamp, where I learnt to build web-applications using the MERN stack. 
 
 * 🚀  I'm currently working on [Voyage E-Commerce Application](http://PLACEHOLDER)
 * 🌱  I'm learning MERN Stack
