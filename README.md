@@ -16,10 +16,10 @@ TBD
 ## 🛠️ My Toolkit
 
 <div>
-  <span style=""><strong>Languages</strong>: </span>
-  <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,html,css,tailwind,scala" height=30>
-  </a>
+<span style=""><strong>Languages</strong>: </span>
+<a href="https://skillicons.dev">
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,html,css,tailwind,scala" height=30>
+</a>
 </div>
 <br />
 <div>
