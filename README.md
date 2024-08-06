@@ -11,6 +11,7 @@ TBD
 - Abstract Algebra
 
 ## 🗃️ My Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=voyage-app-mern&theme=algolia)](https://github.com/patb-github/voyage-app-mern)
 
 ## 🛠️ My Toolkit
