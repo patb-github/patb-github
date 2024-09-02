@@ -6,7 +6,6 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 - Whatsapp Clone (Angular & Spring Boot; [repo](https://github.com/patb-github/whatsapp-clone))
 ## 📖 I'm currently learning ...
 - Build a Modern Computer from First Principles: From Nand to Tetris
-- Functional Programming Principles in Scala
 - Abstract Algebra
 
 ## 🗃️ My Projects
@@ -22,14 +21,14 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 <div>
 <span style=""><strong>Languages</strong>: </span>
 <a href="https://skillicons.dev">
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,html,css,tailwind,scala" height=30>
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,html,css,tailwind" height=30>
 </a>
 </div>
 <br />
 <div>
   <span style=""><strong>Frontend</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=react,vite" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=react,vite,angular" height=30>
   </a>
 </div>
 <br />
