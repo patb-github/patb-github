@@ -3,10 +3,10 @@
 Hey there! I'm a finance graduate who recently completed a Junior Software Developer bootcamp. I am passionate about learning new concepts and am currently strengthening my foundation in computer science through self-study.
 
 ## 🧑‍💻 I'm currently working on ...
-- Whatsapp Clone (Angular & Spring Boot; [repo](https://github.com/patb-github/whatsapp-clone))
+TBD
+
 ## 📖 I'm currently learning ...
 - Build a Modern Computer from First Principles: From Nand to Tetris
-- Abstract Algebra
 
 ## 🗃️ My Projects
 
