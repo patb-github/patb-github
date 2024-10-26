@@ -19,16 +19,16 @@ TBD
 ## 🛠️ My Toolkit
 
 <div>
-<span style=""><strong>Languages</strong>: </span>
-<a href="https://skillicons.dev">
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,html,css,tailwind" height=30>
-</a>
+  <span style=""><strong>Languages</strong>: </span>
+  <a href="https://skillicons.dev">
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python" height=30>
+  </a>
 </div>
 <br />
 <div>
   <span style=""><strong>Frontend</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=react,vite,angular" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,angular" height=30>
   </a>
 </div>
 <br />
