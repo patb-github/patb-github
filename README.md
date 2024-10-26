@@ -6,7 +6,7 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
-- Build a Modern Computer from First Principles: From Nand to Tetris
+- CS 188: Introduction to Artificial Intelligence
 
 ## 🗃️ My Projects
 
@@ -54,6 +54,7 @@ TBD
 </div>
 
 ## 📚 Relevant Coursework
+- Build a Modern Computer from First Principles: From Nand to Tetris Part I and Part II ([Coursera](https://www.coursera.org/learn/build-a-computer), audited)
 - Algorithms Part I and Part II ([Coursera](https://www.coursera.org/learn/algorithms-part1))
 - Programming Languages Part A, Part B, and Part C ([Coursera](https://www.coursera.org/learn/programming-languages))
 - Computer Science: Algorithms, Theory, and Machines ([Coursera](https://www.coursera.org/learn/cs-algorithms-theory-machines))
