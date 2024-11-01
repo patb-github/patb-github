@@ -10,6 +10,7 @@ TBD
 
 ## 🗃️ My Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=crafting-interpreters&theme=slateorange)](https://github.com/patb-github/crafting-interpreters)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=voyage-app-mern&theme=algolia)](https://github.com/patb-github/voyage-app-mern)
 
 ### Mini-Projects
@@ -28,7 +29,7 @@ TBD
 <div>
   <span style=""><strong>Frontend</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,angular" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=html,css,tailwind,react" height=30>
   </a>
 </div>
 <br />
@@ -46,12 +47,6 @@ TBD
   </a>
 </div>
 <br />
-<div>
-  <span style=""><strong>Others</strong>: </span>
-  <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=figma,postman" height=30>
-  </a>
-</div>
 
 ## 📚 Relevant Coursework
 - Build a Modern Computer from First Principles: From Nand to Tetris Part I and Part II ([Coursera](https://www.coursera.org/learn/build-a-computer), audited)
