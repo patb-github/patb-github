@@ -10,7 +10,7 @@ TBD
 
 ## 🗃️ My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=crafting-interpreters&theme=slateorange)](https://github.com/patb-github/crafting-interpreters)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=crafting-interpreters&theme=algolia)](https://github.com/patb-github/crafting-interpreters)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=voyage-app-mern&theme=algolia)](https://github.com/patb-github/voyage-app-mern)
 
 ### Mini-Projects
@@ -22,7 +22,7 @@ TBD
 <div>
   <span style=""><strong>Languages</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c" height=30>
   </a>
 </div>
 <br />
