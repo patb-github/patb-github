@@ -7,6 +7,7 @@ TBD
 
 ## 📖 I'm currently learning ...
 - CS 188: Introduction to Artificial Intelligence
+- Operating Systems: Three Easy Pieces
 
 ## 🗃️ My Projects
 
@@ -36,14 +37,7 @@ TBD
 <div>
   <span style=""><strong>Backend</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=nodejs,express,spring" height=30>
-  </a>
-</div>
-<br />
-<div>
-  <span style=""><strong>Databases</strong>: </span>
-  <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=mongodb,sqlite" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height=30>
   </a>
 </div>
 <br />
