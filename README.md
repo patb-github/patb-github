@@ -6,8 +6,7 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
-- CS 188: Introduction to Artificial Intelligence
-- Operating Systems: Three Easy Pieces
+- Operating Systems: Three Easy Pieces ([University of Wisconsin](https://pages.cs.wisc.edu/~remzi/OSTEP/))
 
 ## 🗃️ My Projects
 
@@ -42,12 +41,16 @@ TBD
 </div>
 <br />
 
-## 📚 Relevant Coursework
+## 📚 Self-Study & Online Course Experiences
+**Core Computer Science Topics**
 - Build a Modern Computer from First Principles: From Nand to Tetris Part I and Part II ([Coursera](https://www.coursera.org/learn/build-a-computer), audited)
 - Algorithms Part I and Part II ([Coursera](https://www.coursera.org/learn/algorithms-part1))
 - Programming Languages Part A, Part B, and Part C ([Coursera](https://www.coursera.org/learn/programming-languages))
 - Computer Science: Algorithms, Theory, and Machines ([Coursera](https://www.coursera.org/learn/cs-algorithms-theory-machines))
 - Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
+
+**Artificial Intelligence & Machine Learning**
+- CS 188: Introduction to Artificial Intelligence ([UC Berkeley on GitHub](https://berkeleyai.github.io/cs188-website/index.html))
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
