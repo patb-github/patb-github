@@ -6,7 +6,8 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
-- Operating Systems: Three Easy Pieces ([University of Wisconsin](https://pages.cs.wisc.edu/~remzi/OSTEP/))
+- CS229: Machine Learning ([SEE](https://see.stanford.edu/course/cs229))
+- Operating Systems: Three Easy Pieces ([UW-Madison](https://pages.cs.wisc.edu/~remzi/OSTEP/))
 
 ## 🗃️ My Projects
 
@@ -22,7 +23,7 @@ TBD
 <div>
   <span style=""><strong>Languages</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c,octave" height=30>
   </a>
 </div>
 <br />
@@ -50,7 +51,7 @@ TBD
 - Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
 
 **Artificial Intelligence & Machine Learning**
-- CS 188: Introduction to Artificial Intelligence ([UC Berkeley on GitHub](https://berkeleyai.github.io/cs188-website/index.html))
+- CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
