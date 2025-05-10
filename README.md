@@ -7,7 +7,6 @@ TBD
 
 ## 📖 I'm currently learning ...
 - CS229: Machine Learning ([SEE](https://see.stanford.edu/course/cs229))
-- Operating Systems: Three Easy Pieces ([UW-Madison](https://pages.cs.wisc.edu/~remzi/OSTEP/))
 
 ## 🗃️ My Projects
 
@@ -23,7 +22,7 @@ TBD
 <div>
   <span style=""><strong>Languages</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c,octave" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c" height=30>
   </a>
 </div>
 <br />
@@ -41,9 +40,17 @@ TBD
   </a>
 </div>
 <br />
+<div>
+  <span style=""><strong>Math/Data</strong>: </span>
+  <a href="https://go-skill-icons.vercel.app">
+    <img style="vertical-align:middle" src="https://go-skill-icons.vercel.app/api/icons?i=octave,numpy,pandas,matplotlib&titles=true" height=30>
+  </a>
+</div>
+<br />
 
 ## 📚 Self-Study & Online Course Experiences
 **Core Computer Science Topics**
+- Operating Systems: Three Easy Pieces ([UW-Madison](https://pages.cs.wisc.edu/~remzi/OSTEP/))
 - Build a Modern Computer from First Principles: From Nand to Tetris Part I and Part II ([Coursera](https://www.coursera.org/learn/build-a-computer), audited)
 - Algorithms Part I and Part II ([Coursera](https://www.coursera.org/learn/algorithms-part1))
 - Programming Languages Part A, Part B, and Part C ([Coursera](https://www.coursera.org/learn/programming-languages))
