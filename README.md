@@ -51,14 +51,14 @@ TBD
 ## 📚 Self-Study & Online Course Experiences
 **Core Computer Science Topics**
 - Operating Systems: Three Easy Pieces ([UW-Madison](https://pages.cs.wisc.edu/~remzi/OSTEP/))
-- Build a Modern Computer from First Principles: From Nand to Tetris Part I and Part II ([Coursera](https://www.coursera.org/learn/build-a-computer), audited)
-- Algorithms Part I and Part II ([Coursera](https://www.coursera.org/learn/algorithms-part1))
-- Programming Languages Part A, Part B, and Part C ([Coursera](https://www.coursera.org/learn/programming-languages))
+- Build a Modern Computer from First Principles: From Nand to Tetris (Coursera: [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2))
+- Algorithms (Coursera: [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2))
+- Programming Languages (Coursera: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c))
 - Computer Science: Algorithms, Theory, and Machines ([Coursera](https://www.coursera.org/learn/cs-algorithms-theory-machines))
 - Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
 
 **Artificial Intelligence & Machine Learning**
-- CS229: Machine Learning ([SEE](https://see.stanford.edu/course/cs229))
+- CS229: Machine Learning ([Stanford](https://see.stanford.edu/course/cs229))
 - CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
 
 ## 📈 My GitHub Stats
