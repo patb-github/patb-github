@@ -6,7 +6,7 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
-- CS229: Machine Learning ([SEE](https://see.stanford.edu/course/cs229))
+- CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/))
 
 ## 🗃️ My Projects
 
@@ -58,6 +58,7 @@ TBD
 - Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
 
 **Artificial Intelligence & Machine Learning**
+- CS229: Machine Learning ([SEE](https://see.stanford.edu/course/cs229))
 - CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
 
 ## 📈 My GitHub Stats
