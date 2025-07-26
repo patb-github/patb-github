@@ -6,7 +6,8 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
-- CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/))
+- 6.031: Software Construction ([MIT](https://web.mit.edu/6.031/www/sp21/))
+<!-- - CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/)) -->
 
 ## 🗃️ My Projects
 
