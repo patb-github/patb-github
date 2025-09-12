@@ -7,6 +7,7 @@ TBD
 
 ## 📖 I'm currently learning ...
 - 6.031: Software Construction ([MIT](https://web.mit.edu/6.031/www/sp21/))
+- CS231n: Deep Learning for Computer Vision ([Stanford](https://cs231n.stanford.edu))
 <!-- - CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/)) -->
 
 ## 🗃️ My Projects
@@ -61,6 +62,9 @@ TBD
 **Artificial Intelligence & Machine Learning**
 - CS229: Machine Learning ([Stanford](https://see.stanford.edu/course/cs229))
 - CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
+
+**Math & Others**
+- Linear Algebra Done Right ([Axler](https://linear.axler.net))
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
