@@ -6,9 +6,8 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
-- 6.031: Software Construction ([MIT](https://web.mit.edu/6.031/www/sp21/))
 - CS231n: Deep Learning for Computer Vision ([Stanford](https://cs231n.stanford.edu))
-<!-- - CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/)) -->
+- CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/))
 
 ## 🗃️ My Projects
 
@@ -52,6 +51,7 @@ TBD
 
 ## 📚 Self-Study & Online Course Experiences
 **Core Computer Science Topics**
+- 6.031: Software Construction ([MIT](https://web.mit.edu/6.031/www/sp21/))
 - Operating Systems: Three Easy Pieces ([UW-Madison](https://pages.cs.wisc.edu/~remzi/OSTEP/))
 - Build a Modern Computer from First Principles: From Nand to Tetris (Coursera: [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2))
 - Algorithms (Coursera: [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2))
