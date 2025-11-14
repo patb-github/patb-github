@@ -7,7 +7,7 @@ TBD
 
 ## 📖 I'm currently learning ...
 - CS231n: Deep Learning for Computer Vision ([Stanford](https://cs231n.stanford.edu))
-- CS 186: Introduction to Database Systems ([Berkeley](https://cs186berkeley.net/fa20/))
+- 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
 
 ## 🗃️ My Projects
 
