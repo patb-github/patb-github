@@ -6,6 +6,7 @@ Hey there! I'm a finance graduate who recently completed a Junior Software Devel
 TBD
 
 ## 📖 I'm currently learning ...
+- CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
 - CS224N: Natural Language Processing with Deep Learning ([Stanford](https://web.stanford.edu/class/cs224n/))
 - 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
 
@@ -44,7 +45,7 @@ TBD
 <div>
   <span style=""><strong>AI & ML</strong>: </span>
   <a href="https://go-skill-icons.vercel.app">
-    <img style="vertical-align:middle" src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pytorch&titles=true" height=30>
+    <img style="vertical-align:middle" src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pytorch,huggingface&titles=true" height=30>
   </a>
 </div>
 <br />
@@ -54,7 +55,6 @@ TBD
 - Build a Modern Computer from First Principles: From Nand to Tetris (Coursera: [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2))
 - Algorithms (Coursera: [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2))
 - Programming Languages (Coursera: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c))
-- Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
 
 **Artificial Intelligence & Machine Learning**
 - CS231n: Deep Learning for Computer Vision ([Stanford](https://cs231n.stanford.edu))
@@ -64,6 +64,7 @@ TBD
 **Supplementary Materials**
 - 6.031: Software Construction ([MIT](https://web.mit.edu/6.031/www/sp21/))
 - Computer Science: Algorithms, Theory, and Machines ([Coursera](https://www.coursera.org/learn/cs-algorithms-theory-machines))
+- Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
 
 **Math & Others**
 - Linear Algebra Done Right ([Axler](https://linear.axler.net))
