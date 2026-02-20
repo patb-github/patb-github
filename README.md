@@ -8,7 +8,6 @@ TBD
 ## 📖 I'm currently learning ...
 - CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
 - CS224N: Natural Language Processing with Deep Learning ([Stanford](https://web.stanford.edu/class/cs224n/))
-- 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
 
 ## 🗃️ My Projects
 
@@ -45,13 +44,14 @@ TBD
 <div>
   <span style=""><strong>AI & ML</strong>: </span>
   <a href="https://go-skill-icons.vercel.app">
-    <img style="vertical-align:middle" src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pytorch,huggingface&titles=true" height=30>
+    <img style="vertical-align:middle" src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pytorch,huggingface,ollama&titles=true" height=30>
   </a>
 </div>
 <br />
 
 ## 📚 Self-Study & Online Course Experiences
 **Core Computer Science Topics**
+- 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
 - Build a Modern Computer from First Principles: From Nand to Tetris (Coursera: [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2))
 - Algorithms (Coursera: [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2))
 - Programming Languages (Coursera: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c))
