@@ -7,7 +7,7 @@ TBD
 
 ## 📖 I'm currently learning ...
 - CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
-- CS224N: Natural Language Processing with Deep Learning ([Stanford](https://web.stanford.edu/class/cs224n/))
+- EE274: Data Compression ([Stanford](https://stanforddatacompressionclass.github.io/Fall25/))
 
 ## 🗃️ My Projects
 
@@ -57,6 +57,7 @@ TBD
 - Programming Languages (Coursera: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c))
 
 **Artificial Intelligence & Machine Learning**
+- CS224N: Natural Language Processing with Deep Learning ([Stanford](https://web.stanford.edu/class/cs224n/))
 - CS231n: Deep Learning for Computer Vision ([Stanford](https://cs231n.stanford.edu))
 - CS229: Machine Learning ([Stanford](https://see.stanford.edu/course/cs229))
 - CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
