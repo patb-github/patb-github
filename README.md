@@ -7,7 +7,7 @@ TBD
 
 ## 📖 I'm currently learning ...
 - CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
-- EE274: Data Compression ([Stanford](https://stanforddatacompressionclass.github.io/Fall25/))
+- CS336: Language Modeling from Scratch ([Stanford](https://cs336.stanford.edu/))
 
 ## 🗃️ My Projects
 
