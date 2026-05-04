@@ -1,22 +1,19 @@
 # Hi, I'm Pat 👋
 
-Hey there! I'm a finance graduate who recently completed a Junior Software Developer bootcamp. I am passionate about learning new concepts and am currently strengthening my foundation in computer science through self-study.
+Hey there! I am passionate about learning new concepts and am currently strengthening my foundation in Computer Science and Machine Learning through self-study.
 
 ## 🧑‍💻 I'm currently working on ...
 TBD
 
 ## 📖 I'm currently learning ...
-- CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
+- 6.1810: Operating System Engineering ([MIT](https://pdos.csail.mit.edu/6.1810/2025/schedule.html))
+- 10-708: Probabilistic Graphical Models ([CMU](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html))
 - CS336: Language Modeling from Scratch ([Stanford](https://cs336.stanford.edu/))
 
 ## 🗃️ My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=crafting-interpreters&theme=algolia)](https://github.com/patb-github/crafting-interpreters)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patb-github&repo=voyage-app-mern&theme=algolia)](https://github.com/patb-github/voyage-app-mern)
-
-### Mini-Projects
-- To-do List (React TS & Spring Boot; [repo](https://github.com/patb-github/to-do-list))
-- Homes App (Angular; [repo](https://github.com/patb-github/homes-app))
 
 ## 🛠️ My Toolkit
 
@@ -52,6 +49,7 @@ TBD
 ## 📚 Self-Study & Online Course Experiences
 **Core Computer Science Topics**
 - 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
+- CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
 - Build a Modern Computer from First Principles: From Nand to Tetris (Coursera: [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2))
 - Algorithms (Coursera: [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2))
 - Programming Languages (Coursera: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c))
