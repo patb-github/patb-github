@@ -7,8 +7,8 @@ TBD
 
 ## 📖 I'm currently learning ...
 - 6.1810: Operating System Engineering ([MIT](https://pdos.csail.mit.edu/6.1810/2025/schedule.html))
-- 10-708: Probabilistic Graphical Models ([CMU](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html))
 - CS336: Language Modeling from Scratch ([Stanford](https://cs336.stanford.edu/))
+<!-- - 10-708: Probabilistic Graphical Models ([CMU](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html)) -->
 
 ## 🗃️ My Projects
 
@@ -57,7 +57,7 @@ TBD
 **Artificial Intelligence & Machine Learning**
 - CS224N: Natural Language Processing with Deep Learning ([Stanford](https://web.stanford.edu/class/cs224n/))
 - CS231n: Deep Learning for Computer Vision ([Stanford](https://cs231n.stanford.edu))
-- CS229: Machine Learning ([Stanford](https://see.stanford.edu/course/cs229))
+- CS229: Machine Learning ([Stanford](https://see.stanford.edu/Course/CS229))
 - CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
 
 **Supplementary Materials**
