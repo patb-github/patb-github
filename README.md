@@ -6,7 +6,8 @@ Hey there! I am passionate about learning new concepts and am currently strength
 TBD
 
 ## 📖 I'm currently learning ...
-- 6.1810: Operating System Engineering ([MIT](https://pdos.csail.mit.edu/6.1810/2025/schedule.html))
+- CS 168: Introduction to the Internet ([Berkeley](https://cs168.io/))
+- CS106L: Standard C++ Programming ([Stanford](https://web.stanford.edu/class/cs106l/))
 - CS336: Language Modeling from Scratch ([Stanford](https://cs336.stanford.edu/))
 <!-- - 10-708: Probabilistic Graphical Models ([CMU](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html)) -->
 
@@ -49,6 +50,7 @@ TBD
 ## 📚 Self-Study & Online Course Experiences
 **Core Computer Science Topics**
 - 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
+- 6.1810: Operating System Engineering ([MIT](https://pdos.csail.mit.edu/6.1810/2025/schedule.html))
 - CS61C: Great Ideas in Computer Architecture ([Berkeley](https://cs61c.org/))
 - Build a Modern Computer from First Principles: From Nand to Tetris (Coursera: [Part I](https://www.coursera.org/learn/build-a-computer), [Part II](https://www.coursera.org/learn/nand2tetris2))
 - Algorithms (Coursera: [Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2))
