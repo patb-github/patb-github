@@ -7,7 +7,6 @@ TBD
 
 ## 📖 I'm currently learning ...
 - CS 168: Introduction to the Internet ([Berkeley](https://cs168.io/))
-- CS106L: Standard C++ Programming ([Stanford](https://web.stanford.edu/class/cs106l/))
 - CS336: Language Modeling from Scratch ([Stanford](https://cs336.stanford.edu/))
 <!-- - 10-708: Probabilistic Graphical Models ([CMU](https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html)) -->
 
@@ -21,7 +20,7 @@ TBD
 <div>
   <span style=""><strong>Languages</strong>: </span>
   <a href="https://skillicons.dev">
-    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c" height=30>
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp" height=30>
   </a>
 </div>
 <br />
@@ -47,7 +46,7 @@ TBD
 </div>
 <br />
 
-## 📚 Self-Study & Online Course Experiences
+## 📚 Self-Study
 **Core Computer Science Topics**
 - 6.1600: Foundations of Computer Security ([MIT](https://61600.csail.mit.edu/))
 - 6.1810: Operating System Engineering ([MIT](https://pdos.csail.mit.edu/6.1810/2025/schedule.html))
@@ -63,11 +62,13 @@ TBD
 - CS 188: Introduction to Artificial Intelligence ([Berkeley](https://berkeleyai.github.io/cs188-website/index.html))
 
 **Supplementary Materials**
+- CS106L: Standard C++ Programming ([Stanford](https://web.stanford.edu/class/cs106l/))
 - 6.031: Software Construction ([MIT](https://web.mit.edu/6.031/www/sp21/))
 - Computer Science: Algorithms, Theory, and Machines ([Coursera](https://www.coursera.org/learn/cs-algorithms-theory-machines))
 - Computer Science: Programming With A Purpose ([Coursera](https://www.coursera.org/learn/cs-programming-java))
 
 **Math & Others**
+- Measure, Integration & Real Analysis ([Axler](https://measure.axler.net/))
 - Linear Algebra Done Right ([Axler](https://linear.axler.net))
 
 ## 📈 My GitHub Stats
